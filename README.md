@@ -1,47 +1,31 @@
-# 💫 About Me
-Hi, I’m currently pursuing a **Bachelor of Science degree in Artificial Intelligence** at the **University of Moratuwa**.  
-I’m passionate about **AI/ML** and exploring new **technologies**. As an **IT enthusiast**, I’m constantly seeking innovative ways to apply my knowledge in **AI**, **Machine Learning**, and **Technology** across both **creative** and **technical projects**.
+## 💫 About Me:
 
----
+"Hi, I'm currently pursuing a Bachelor of Science degree in Information Technology at the University of Moratuwa. I'm passionate about AI/ML. As an IT enthusiast, I'm constantly exploring new technologies and looking for ways to innovate. I'm eager to apply my knowledge in AI and tech across diverse creative and technical projects!"
 
-### 🌐 **Socials**
-- [Facebook](https://www.facebook.com/yourprofile) 📱
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 🔗
-- [Medium](https://medium.com/@yourprofile) ✍️
-- [Reddit](https://www.reddit.com/user/yourprofile) 👾
-- [X (Twitter)](https://twitter.com/yourprofile) 🐦
+## 🌐 Socials:
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR_USERNAME)
 
-### 💻 **Tech Stack** 
-- **Languages & Frameworks**:  
-  - C 🖥️  
-  - FastAPI ⚡  
-  - Express.js 🌐  
-  - React ⚛️  
-  - TensorFlow 🧠
+## 💻 Tech Stack:
 
-- **Databases**:  
-  - MySQL 🗃️  
-  - MongoDB 🗄️
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-- **Data Science & Machine Learning**:  
-  - Pandas 📊  
-  - NumPy 🔢  
+## 💅 Random Dev Quote
 
-- **Other Tools**:  
-  - GitHub Actions 🔄  
-  - Git 🦸‍♂️  
-  - Arduino 🔌  
-
----
-
-### 🚀 **Interests**
-- Exploring **scalable systems** that handle high volumes of data and performance challenges.  
-- Diving deep into **AI/ML** applications, with an emphasis on automation, intelligent systems, and data-driven decision-making.  
-- Passionate about **IoT** (Internet of Things) and **Cloud Computing**—creating smart systems and scalable cloud infrastructures. 
-
----
-
-### ✍️ **Random Dev Quote**  
-*"The best way to predict the future is to invent it."* - Alan Kay
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
