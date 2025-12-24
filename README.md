@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohamed+Ashrif;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Tech+Solutions" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedASHRIF&style=flat-square&color=blue" alt=""/>
+  <br/>
+  <a href="https://www.buymeacoffee.com/MohamedASHRIF" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145" />
+  </a>
+</div>
+
 ## 💫 About Me:
 
 "Hi, I'm currently pursuing a Bachelor of Science degree in Information Technology at the University of Moratuwa. I'm passionate about AI/ML. As an IT enthusiast, I'm constantly exploring new technologies and looking for ways to innovate. I'm eager to apply my knowledge in AI and tech across diverse creative and technical projects!"
@@ -41,6 +49,23 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+## 📊 Analytics
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+## ✍️ Latest Blog Posts
 ## 💅 Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
