@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Absar+Mohammed;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohamed+Ashrif;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Tech+Solutions" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me:
